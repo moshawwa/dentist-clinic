@@ -1,7 +1,7 @@
 
 
 const Features = () => (
-  <section className="py-5 bg-white">
+  <section className="py-5">
     <div className="container">
       <h2 className="text-center mb-4">Features</h2>
       <div className="row">

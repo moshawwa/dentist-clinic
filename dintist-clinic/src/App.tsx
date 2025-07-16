@@ -10,7 +10,7 @@ import Booking from './components/Booking';
 
 const App = () => (
   <BrowserRouter>
-    <div className="bg-white min-vh-100 d-flex flex-column">
+    <div className="min-vh-100 d-flex flex-column">
       <Navbar />
       <div className="container flex-grow-1">
         <Routes>
